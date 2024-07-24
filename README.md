@@ -1,3 +1,3 @@
 # This is my resume
 
-Open the file index.html to view the resume
+[Open the file index.html to view the resume](https://fyrsil.github.io/Resume/)
