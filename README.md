@@ -1,3 +1,3 @@
 # This is my resume
 
-[Click me to view my resume](https://fyrsil.github.io/Resume/)
+[Click me to view resume](https://fyrsil.github.io/Resume/)
